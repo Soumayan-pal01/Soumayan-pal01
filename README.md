@@ -1,4 +1,4 @@
-### Hello there, am Soumayan😁
+### Hello there, I am Soumayan😁
 
 
 About me:👇🤞
