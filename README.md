@@ -9,3 +9,7 @@ About me:👇🤞
 -->
 
 
+<details><summary>Contribution Graph</summary>
+<p align="left">
+<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=Soumayan-pal01&theme=xcode" /></p>
+</details>
