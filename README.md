@@ -19,5 +19,9 @@ About me:👇🤞
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Soumayan-pal01&theme=tokyonight" />
 </p>
 
+<div align = "center">
+ 
 **Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{Soumayan-pal01}/count.svg)
+
+</div>
