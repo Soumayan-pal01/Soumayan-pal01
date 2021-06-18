@@ -18,3 +18,6 @@ About me:👇🤞
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Soumayan-pal01&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" /> 
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Soumayan-pal01&theme=tokyonight" />
 </p>
+
+**Visitors Count**  
+![VisitorCount](https://profile-counter.glitch.me/{Soumayan-pal01}/count.svg)
